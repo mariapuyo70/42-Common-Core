@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F7F7F7&background=000000&vCenter=true&width=435&lines=Welcome+to+my+42+Common+Core+repository!;Check+out+my+projects+below.)
+
 # 🚀 42 Common Core - My Programming Journey 💻
 
 This repository documents my progress through the **Common Core curriculum** at **42 School**. It showcases all the projects I have completed and am currently working on, from the fundamental `libft` to the more advanced challenges.
@@ -108,4 +110,6 @@ A project to build my own shell, or command-line interpreter, recreating the bas
 ### 📧 Contact
 
 - **GitHub:** [mariapuyo70](https://github.com/mariapuyo70)
-- **LinkedIn:** [María Puyó Roldán](www.linkedin.com/in/maria-puyo-roldan)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario/)
+- **LinkedIn:** [María Puyó Roldán](www.linkedin.com/in/maria-puyo-roldan)
+
+
