@@ -7,9 +7,12 @@ This repository documents my progress through the **Common Core curriculum** at 
 ### 📋 Table of Contents
 - [Project Progress](#project-progress)
 - [libft](#libft)
-- [get_next_line](#get_next_line)
 - [ft_printf](#ft_printf)
+- [get_next_line](#get_next_line)
+- [so_long](#so_long)
+- [minitalk](#minitalk)
 - [push_swap](#push_swap)
+- [minishell](#minishell)
 - [Contact](#contact)
 
 ---
