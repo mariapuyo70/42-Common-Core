@@ -33,7 +33,9 @@ Here is an overview of my current status in the Common Core curriculum:
 
 ---
 
-## `libft` ![Status](https://img.shields.io/badge/status-Completed-brightgreen?style=for-the-badge) ![Score](https://img.shields.io/badge/score-125%2F100-blue)
+### 📚 `libft` 
+
+![Status](https://img.shields.io/badge/status-Completed-brightgreen) ![Score](https://img.shields.io/badge/score-125%2F100-blue)
 
 A fundamental C library that I'll use in all my future 42 projects. It's a great exercise for practicing low-level functions.
 
@@ -41,14 +43,18 @@ A fundamental C library that I'll use in all my future 42 projects. It's a great
 
 ---
 
-### `ft_printf` ![Status](https://img.shields.io/badge/status-Completed-brightgreen) ![Score](https://img.shields.io/badge/score-125%2F100-blue)
+### 🖨️ `ft_printf` 
+
+![Status](https://img.shields.io/badge/status-Completed-brightgreen) ![Score](https://img.shields.io/badge/score-125%2F100-blue)
 
 A project to recreate the C library function printf, focusing on variadic functions and complex string formatting.
 
 [Link to ft_printf folder](./printf)
 
 
-### `get_next_line` ![Status](https://img.shields.io/badge/status-Completed-brightgreen) ![Score](https://img.shields.io/badge/score-125%2F100-blue)
+### 📜 `get_next_line` 
+
+![Status](https://img.shields.io/badge/status-Completed-brightgreen) ![Score](https://img.shields.io/badge/score-125%2F100-blue)
 
 This project consists of writing a function that returns a line read from a file descriptor. It's a great exercise to practice static variables and dynamic memory allocation.
 
@@ -56,7 +62,9 @@ This project consists of writing a function that returns a line read from a file
 
 ---
 
-### `so_long` ![Status](https://img.shields.io/badge/status-In_Progress-yellow) ![Score](https://img.shields.io/badge/score-N%2FA-lightgrey)
+### 🎮 `so_long` 
+
+![Status](https://img.shields.io/badge/status-In_Progress-yellow) ![Score](https://img.shields.io/badge/score-N%2FA-lightgrey)
 
 An introduction to graphical programming by building a 2D game using the MiniLibX library, with a focus on window management and event handling.
 
@@ -64,7 +72,9 @@ An introduction to graphical programming by building a 2D game using the MiniLib
 
 ---
 
-### `minitalk` ![Status](https://img.shields.io/badge/status-In_Progress-yellow) ![Score](https://img.shields.io/badge/score-N%2FA-lightgrey)
+### 💬 `minitalk` 
+
+![Status](https://img.shields.io/badge/status-In_Progress-yellow) ![Score](https://img.shields.io/badge/score-N%2FA-lightgrey)
 
 A client-server communication program that exchanges messages using only UNIX signals, challenging my understanding of signal handling and bit-level data encoding.
 
@@ -72,7 +82,9 @@ A client-server communication program that exchanges messages using only UNIX si
 
 ---
 
-### `push_swap` ![Status](https://img.shields.io/badge/status-In_Progress-yellow) ![Score](https://img.shields.io/badge/score-N%2FA-lightgrey)
+### 🧮 `push_swap` 
+
+![Status](https://img.shields.io/badge/status-In_Progress-yellow) ![Score](https://img.shields.io/badge/score-N%2FA-lightgrey)
 
 A fascinating project where I need to sort data on a stack using a limited set of instructions, with the minimum number of moves possible.
 
@@ -80,7 +92,9 @@ A fascinating project where I need to sort data on a stack using a limited set o
 
 ---
 
-### `minishell` ![Status](https://img.shields.io/badge/status-Not_Started-lightgrey) ![Score](https://img.shields.io/badge/score-N%2FA-lightgrey)
+### 💻 `minishell` 
+
+![Status](https://img.shields.io/badge/status-Not_Started-lightgrey) ![Score](https://img.shields.io/badge/score-N%2FA-lightgrey)
 
 A project to build my own shell, or command-line interpreter, recreating the basic functionalities of Bash. This project challenges my understanding of **process management**, **redirections**, and **parsing command-line arguments**.
 
