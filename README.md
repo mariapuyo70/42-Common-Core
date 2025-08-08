@@ -19,10 +19,12 @@ This repository documents my progress through the **Common Core curriculum** at 
 Here is an overview of my current status in the Common Core curriculum:
 
 - **[libft]** :white_check_mark: Completed
-- **[get_next_line]** :white_check_mark: Completed
 - **[ft_printf]** :white_check_mark: Completed
+- **[get_next_line]** :white_check_mark: Completed
+- **[so_long]** :hourglass_flowing_sand: In Progress
+- **[minitalk]** :hourglass_flowing_sand: In Progress
 - **[push_swap]** :hourglass_flowing_sand: In Progress
-- **[so_long]** :x: Not Started
+- **[minishell]** :x: Not Started
 
 ---
 
@@ -31,20 +33,50 @@ Here is an overview of my current status in the Common Core curriculum:
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 ![Score](https://img.shields.io/badge/score-125%2F100-blue)
 
-A brief description of the project and its purpose. It's a fundamental library that I'll use in all future C projects at 42.
+It's a fundamental library that I'll use in all future C projects at 42.
 
 [Link to libft folder](./libft)
 
 ---
 
+## 'ft_printf'
+
+![Status](https://img.shields.io/badge/status-Completed-brightgreen)
+![Score](https://img.shields.io/badge/score-125%2F100-blue)
+
+A project to recreate the C library function printf, focusing on variadic functions and complex string formatting.
+
+
 ### `get_next_line`
 
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
-![Score](https://img.shields.io/badge/score-100%2F100-blue)
+![Score](https://img.shields.io/badge/score-125%2F100-blue)
 
 This project consists of writing a function that returns a line read from a file descriptor. It's a great exercise to practice static variables and dynamic memory allocation.
 
 [Link to get_next_line folder](./get_next_line)
+
+---
+
+### `so_long`
+
+![Status](https://img.shields.io/badge/status-In_Progress-yellow)
+![Score](https://img.shields.io/badge/score-N%2FA-lightgrey)
+
+An introduction to graphical programming by building a 2D game using the MiniLibX library, with a focus on window management and event handling.
+
+[Link to so_long folder](./so_long)
+
+---
+
+### `minitalk`
+
+![Status](https://img.shields.io/badge/status-In_Progress-yellow)
+![Score](https://img.shields.io/badge/score-N%2FA-lightgrey)
+
+A client-server communication program that exchanges messages using only UNIX signals, challenging my understanding of signal handling and bit-level data encoding.
+
+[Link to minitalk folder](./minitalk)
 
 ---
 
@@ -56,6 +88,17 @@ This project consists of writing a function that returns a line read from a file
 A fascinating project where I need to sort data on a stack using a limited set of instructions, with the minimum number of moves possible.
 
 [Link to push_swap folder](./push_swap)
+
+---
+
+### `minishell`
+
+![Status](https://img.shields.io/badge/status-Not_Started-lightgrey)
+![Score](https://img.shields.io/badge/score-N%2FA-lightgrey)
+
+A project to build my own shell, or command-line interpreter, recreating the basic functionalities of Bash. This project challenges my understanding of **process management**, **redirections**, and **parsing command-line arguments**.
+
+[Link to minishell folder](./minishell)
 
 ---
 
