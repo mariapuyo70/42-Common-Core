@@ -61,5 +61,5 @@ A fascinating project where I need to sort data on a stack using a limited set o
 
 ### 📧 Contact
 
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/your-linkedin-profile/)
+- **GitHub:** [mariapuyo70](https://github.com/mariapuyo70)
+- **LinkedIn:** [María Puyó Roldán](www.linkedin.com/in/maria-puyo-roldan)
