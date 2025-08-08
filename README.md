@@ -33,18 +33,15 @@ Here is an overview of my current status in the Common Core curriculum:
 
 ---
 
-### `libft`
+### `libft` ![Status](https://img.shields.io/badge/status-Completed-brightgreen) ![Score](https://img.shields.io/badge/score-125%2F100-blue)
 
-![Status](https://img.shields.io/badge/status-Completed-brightgreen)
-![Score](https://img.shields.io/badge/score-125%2F100-blue)
-
-It's a fundamental library that I'll use in all future C projects at 42.
+A fundamental C library that I'll use in all my future 42 projects. It's a great exercise for practicing low-level functions.
 
 [Link to libft folder](./libft)
 
 ---
 
-## 'ft_printf'
+### 'ft_printf'
 
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 ![Score](https://img.shields.io/badge/score-125%2F100-blue)
