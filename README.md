@@ -108,4 +108,4 @@ A project to build my own shell, or command-line interpreter, recreating the bas
 ### 📧 Contact
 
 - **GitHub:** [mariapuyo70](https://github.com/mariapuyo70)
-- **LinkedIn:** [María Puyó Roldán](www.linkedin.com/in/maria-puyo-roldan)
+- **LinkedIn:** [María Puyó Roldán](www.linkedin.com/in/maria-puyo-roldan)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario/)
