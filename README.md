@@ -33,7 +33,7 @@ Here is an overview of my current status in the Common Core curriculum:
 
 ---
 
-### `libft` ![Status](https://img.shields.io/badge/status-Completed-brightgreen) ![Score](https://img.shields.io/badge/score-125%2F100-blue)
+### `libft` ![Status](https://img.shields.io/badge/status-Completed-brightgreen?style=for-the-badge) ![Score](https://img.shields.io/badge/score-125%2F100-blue)
 
 A fundamental C library that I'll use in all my future 42 projects. It's a great exercise for practicing low-level functions.
 
@@ -44,6 +44,8 @@ A fundamental C library that I'll use in all my future 42 projects. It's a great
 ### `ft_printf` ![Status](https://img.shields.io/badge/status-Completed-brightgreen) ![Score](https://img.shields.io/badge/score-125%2F100-blue)
 
 A project to recreate the C library function printf, focusing on variadic functions and complex string formatting.
+
+[Link to ft_printf folder](./printf)
 
 
 ### `get_next_line` ![Status](https://img.shields.io/badge/status-Completed-brightgreen) ![Score](https://img.shields.io/badge/score-125%2F100-blue)
