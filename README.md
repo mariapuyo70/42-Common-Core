@@ -11,6 +11,7 @@ This repository documents my progress through the **Common Core curriculum** at 
 - [libft](#libft)
 - [ft_printf](#ft_printf)
 - [get_next_line](#get_next_line)
+- [Born2beRoot](Born2beRoot)
 - [so_long](#so_long)
 - [minitalk](#minitalk)
 - [push_swap](#push_swap)
@@ -26,6 +27,7 @@ Here is an overview of my current status in the Common Core curriculum:
 - **[libft]** :white_check_mark: Completed
 - **[ft_printf]** :white_check_mark: Completed
 - **[get_next_line]** :white_check_mark: Completed
+- **[Born2beRoot]** :white_check_mark: Completed
 - **[so_long]** :hourglass_flowing_sand: In Progress
 - **[minitalk]** :hourglass_flowing_sand: In Progress
 - **[push_swap]** :hourglass_flowing_sand: In Progress
@@ -51,6 +53,7 @@ A project to recreate the C library function printf, focusing on variadic functi
 
 [Link to ft_printf folder](./printf)
 
+---
 
 ### 📜 `get_next_line` 
 
@@ -59,6 +62,16 @@ A project to recreate the C library function printf, focusing on variadic functi
 This project consists of writing a function that returns a line read from a file descriptor. It's a great exercise to practice static variables and dynamic memory allocation.
 
 [Link to get_next_line folder](./get_next_line)
+
+---
+
+### ⚙️ `born2beroot`
+
+![Status](https://img.shields.io/badge/status-Not_Started-lightgrey) ![Score](https://img.shields.io/badge/score-N%2FA-lightgrey)
+
+A project focused on system administration by setting up a secure virtual machine using a custom shell script. It challenges my ability to work with `bash` scripting, implement security measures, and configure a server environment from scratch.
+
+[Link to Born2BeRoot folder](./Born2BeRoot)
 
 ---
 
