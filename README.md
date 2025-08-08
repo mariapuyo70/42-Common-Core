@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F7F7F7&background=000000&vCenter=true&width=435&lines=Welcome+to+my+42+Common+Core+repository!;Check+out+my+projects+below.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F7F7F7&background=000000&vCenter=true&width=550&lines=Welcome+to+my+42+Common+Core+repository!;Check+out+my+projects+below.)
 
 # 🚀 42 Common Core - My Programming Journey 💻
 
