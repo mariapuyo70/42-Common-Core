@@ -67,7 +67,7 @@ This project consists of writing a function that returns a line read from a file
 
 ### ⚙️ `born2beroot`
 
-![Status](https://img.shields.io/badge/status-Not_Started-lightgrey) ![Score](https://img.shields.io/badge/score-N%2FA-lightgrey)
+![Status](https://img.shields.io/badge/status-Completed-brightgreen) ![Score](https://img.shields.io/badge/score-125%2F100-blue)
 
 A project focused on system administration by setting up a secure virtual machine using a custom shell script. It challenges my ability to work with `bash` scripting, implement security measures, and configure a server environment from scratch.
 
