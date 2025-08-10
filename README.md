@@ -7,16 +7,16 @@ This repository documents my progress through the **Common Core curriculum** at 
 ---
 
 ### 📋 Table of Contents
-- [📈 Project Progress](#project-progress)
+- [📈 Project Progress](#-project-progress)
 - [📚 libft](#-libft)
-- [🖨️ ft_printf](#ft-printf)
-- [📜 get_next_line](#get-next-line)
-- [⚙️ born2beroot](#born2beroot)
-- [🎮 so_long](#so-long)
-- [💬 minitalk](#minitalk)
-- [🧮 push_swap](#push-swap)
-- [💻 minishell](#minishell)
-- [📧 Contact](#contact)
+- [🖨️ ft_printf](#-ft-printf)
+- [📜 get_next_line](#-get-next-line)
+- [⚙️ born2beroot](#-born2beroot)
+- [🎮 so_long](#-so-long)
+- [💬 minitalk](#-minitalk)
+- [🧮 push_swap](#-push-swap)
+- [💻 minishell](#-minishell)
+- [📧 Contact](#-contact)
 
 ---
 
