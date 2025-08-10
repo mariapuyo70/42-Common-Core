@@ -8,7 +8,7 @@ This repository documents my progress through the **Common Core curriculum** at 
 
 ### 📋 Table of Contents
 - [📈 Project Progress](#project-progress)
-- [📚 libft](#libft)
+- [📚 libft](#-libft)
 - [🖨️ ft_printf](#ft-printf)
 - [📜 get_next_line](#get-next-line)
 - [⚙️ born2beroot](#born2beroot)
