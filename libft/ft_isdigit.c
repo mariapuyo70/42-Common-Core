@@ -6,11 +6,11 @@
 /*   By: mpuyo-ro <mpuyo-ro@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/15 16:11:06 by mpuyo-ro          #+#    #+#             */
-/*   Updated: 2024/08/15 16:50:43 by mpuyo-ro         ###   ########.fr       */
+/*   Updated: 2025/09/04 16:31:11 by mpuyo-ro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
+#include "libft.h"
 
 int	ft_isdigit(int c)
 {
